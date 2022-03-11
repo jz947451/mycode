@@ -1,0 +1,2 @@
+# mycode
+my training class
